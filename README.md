@@ -1,4 +1,7 @@
 
+This tutorial is for using nowdb in android, based on
+https://github.com/kseta233/nowdb-client
+
 ## [Android](http://developer.android.com/training/index.html)
 
 Secara Konseptual peranan nowdb dan mobile apps di android sbb:
